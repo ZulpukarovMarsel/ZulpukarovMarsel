@@ -20,8 +20,8 @@ Backend developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MarselZulpukarov"><img src="https://github-readme-stats.vercel.app/api?username=MarselZulpukarov&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ef4444&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="MarselZulpukarov's GitHub stats" /></a>
+<a href="http://www.github.com/ZulpukarovMarsel"><img src="https://github-readme-stats.vercel.app/api?username=ZulpukarovMarsel&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ef4444&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="ZulpukarovMarsel's GitHub stats" /></a>
 
-<a href="http://www.github.com/MarselZulpukarov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarselZulpukarov&stroke=ef4444&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=ef4444&currStreakLabel=22c55e&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+<a href="http://www.github.com/ZulpukarovMarsel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZulpukarovMarsel&stroke=ef4444&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=ef4444&currStreakLabel=22c55e&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
-<a href="https://github.com/MarselZulpukarov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarselZulpukarov&langs_count=10&title_color=22c55e&text_color=ef4444&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ZulpukarovMarsel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZulpukarovMarsel&langs_count=10&title_color=22c55e&text_color=ef4444&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
