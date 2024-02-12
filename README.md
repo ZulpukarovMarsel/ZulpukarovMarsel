@@ -16,7 +16,16 @@ Backend developer
 
 
 ### Socials
-<p align="left"> <a href="https://www.github.com/MarselZulpukarov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/mars161206" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg](https://www.bing.com/images/search?view=detailV2&ccid=BWySb5tP&id=94B34EED5983B5324C9F6E79EECA1ED4DBBD0024&thid=OIP.BWySb5tP3fyKqTdMl6kxTQHaHa&mediaurl=https%3a%2f%2fwowmoon.ru%2fwp-content%2fuploads%2f2021%2f06%2fdiscord-emoji-video-games-portable-network-graphics-final-fantasy-xiv-png-favpng-fqn9nxgbmc53nqzqiz0jx1cm5.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.056c926f9b4fddfc8aa9374c97a9314d%3frik%3dJAC929Qeyu55bg%26pid%3dImgRaw%26r%3d0&exph=800&expw=800&q=%d0%b8%d0%ba%d0%be%d0%bd%d0%ba%d0%b0+%d0%b4%d0%b8%d1%81%d0%ba%d0%be%d1%80%d0%b4%d0%b0&simid=608008559079981331&FORM=IRPRST&ck=014905C97B3F16E00261D9AD9F58A903&selectedIndex=3&itb=0&ajaxhist=0&ajaxserp=0)" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a></p> 
+<p align="left"> <a href="https://www.github.com/MarselZulpukarov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>   <a href="https://t.me/Marsel_Zulpukarov" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" />
+  </a>
+  <a href="https://discord.com/users/mars161206" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.instagram.com/_zulpukarov_06/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
+</p> 
 
 ### Badges
 
