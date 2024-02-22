@@ -6,14 +6,13 @@ Backend developer
 -----------------
 
 ### Skills
-
+![Jinja2](https://img.shields.io/badge/Jinja2-%23F9900.svg?style=for-the-badge&logo=jinja2&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Jinja2](https://img.shields.io/badge/Jinja2-%23F9900.svg?style=for-the-badge&logo=jinja2&logoColor=white)![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.7f5fadc660d859decbc057fa5e1bb649?rik=%2bDkqq33MIE9ufQ&riu=http%3a%2f%2fgetdrawings.com%2ffree-icon%2fpostman-icon-69.png&ehk=KR1eaQxec8wYYzqPILHBl24EnrP1jWa5gUJ3oI9cDCg%3d&risl=&pid=ImgRaw&r=0" width="36" height="36" alt="Postman" /></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/564x/4f/95/a6/4f95a6ed89492aaa2ab4baffc19818de.jpg" width="36" height="36" alt="Jira" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
