@@ -15,8 +15,6 @@ I'm Backend developer
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.7f5fadc660d859decbc057fa5e1bb649?rik=%2bDkqq33MIE9ufQ&riu=http%3a%2f%2fgetdrawings.com%2ffree-icon%2fpostman-icon-69.png&ehk=KR1eaQxec8wYYzqPILHBl24EnrP1jWa5gUJ3oI9cDCg%3d&risl=&pid=ImgRaw&r=0" width="36" height="36" alt="Postman" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /> </a>
 </p>
 
 ### 
