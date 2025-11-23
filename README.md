@@ -22,7 +22,6 @@ I'm Backend developer
 
 
 ### Socials
-<p align="left"> <a href="https://www.github.com/ZulpukarovMarsel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
   <a href="https://t.me/Marsel_Zulpukarov" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/OIG2.LLsp04UbR7GuN6Tqi9SE?w=1024&h=1024&rs=1&pid=ImgDetMain" width="32" height="32" />
   </a>
